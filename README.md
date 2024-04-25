@@ -1,6 +1,6 @@
 # darkmode_lightmode_app
 
-A new Flutter project.
+This is a flutter project that shows how theming works in flutter.
 
 ## Getting Started
 
